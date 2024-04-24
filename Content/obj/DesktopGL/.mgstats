@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/caioh/OneDrive/Área de Trabalho/Minedu-ResourcePacks/MyGame/Content/bg.jpg","C:/Users/caioh/OneDrive/Área de Trabalho/Minedu-ResourcePacks/MyGame/Content/bin/DesktopGL/bg.xnb","TextureProcessor","Texture2DContent",100223,8294485,0,7947129
+"C:/Users/caioh/OneDrive/Área de Trabalho/Minedu-ResourcePacks/MyGame/Content/exit_button.png","C:/Users/caioh/OneDrive/Área de Trabalho/Minedu-ResourcePacks/MyGame/Content/bin/DesktopGL/exit_button.xnb","TextureProcessor","Texture2DContent",1766,11125,0,0090392
+"C:/Users/caioh/OneDrive/Área de Trabalho/Minedu-ResourcePacks/MyGame/Content/play_button.png","C:/Users/caioh/OneDrive/Área de Trabalho/Minedu-ResourcePacks/MyGame/Content/bin/DesktopGL/play_button.xnb","TextureProcessor","Texture2DContent",1979,11125,0,0099237
